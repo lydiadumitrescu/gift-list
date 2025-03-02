@@ -1,0 +1,39 @@
+<main class="main">
+  <div class="logos">
+    <img src="Mara.JPG" alt="logo">
+    <img src="Gruia.JPG" alt="logo">
+  </div>
+  <div class="content">
+
+    <h1>Salut</h1>
+    <p>Multumim pentru ca vrei sa te implici. 🎉
+      <br>
+      Cartile etichetate "Deja cumparata" le-am cumparat la oferte si le-am pastrat pentru mai tarziu.
+      <br>
+      Cartile etichetate "Rezervata" nu mai pot fi alese.
+    </p>
+
+
+    <div class="gifts__wrapper">
+      <div class="gift__wrapper" *ngFor="let gift of gifts;"
+        [ngClass]="{'have-both': gift.have_both && !gift.reserved, 'reserved': gift.reserved}">
+        <div class="gift__photo__wrapper">
+          <img class="gift__photo" src="{{gift.img_url}}" alt="img">
+          <p *ngIf="gift.have_both && !gift.reserved">{{gift.have_desc}}</p>
+          <p *ngIf="gift.reserved">Rezervata</p>
+        </div>
+        <h2 class="gift__name">{{gift.gift__name}}</h2>
+        <h4 class="gift__desc">{{gift.gift__desc}}</h4>
+        <p class="gift__add">{{gift.gift__add}}</p>
+
+        <div class="checkbox__wrapper">
+          <input type="checkbox" id="scales" name="scales" />
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</main>
+
+<router-outlet />
