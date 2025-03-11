@@ -16,7 +16,7 @@
     "gift__add": "Editura: DPH"
   },
   {
-    "have_both": "",
+    "reserved":true,
     "img_url": "nu_lasa_porumbelul_la_volan!.jpg",
     "have_desc": "",
     "gift__name": "Nu lasa porumbelul la volan!",
@@ -207,7 +207,7 @@
 
 
   {
-    "have_both": "",
+    "reserved":true,
     "img_url": "ce_face_lumea_toata_ziua.JPG",
     "have_desc": "",
     "gift__name": "Ce face lumea toata ziua?",
