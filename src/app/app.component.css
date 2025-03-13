@@ -41,8 +41,11 @@
     margin: 25px 15% 0;
   }
 }
+
 @media (min-width: 768px) {}
+
 @media (min-width: 992px) {}
+
 @media (min-width: 1200px) {
   .logos {
     margin: 25px 25% 0;
@@ -103,11 +106,13 @@
     background-color: lemonchiffon;
     border-radius: 15px;
     border: 1px solid red;
-    padding: 25px 0;
+    /* padding: 25px 0; */
+    top: 196px;
   }
 }
 
 .gift__wrapper.reserved {
+
   .gift__photo,
   .gift__photo {
     opacity: 0.2;
