@@ -115,13 +115,14 @@
 
   .gift__photo,
   .gift__photo {
-    opacity: 0.2;
+    opacity: 0.4;
   }
 
   .gift__photo__wrapper>p {
     position: absolute;
     font-size: 30px;
     font-weight: 700;
+    top: 220px;
   }
 
   .gift__name,
