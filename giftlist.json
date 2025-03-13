@@ -16,7 +16,7 @@
     "gift__add": "Editura: DPH"
   },
   {
-    "reserved":true,
+    "reserved": true,
     "img_url": "nu_lasa_porumbelul_la_volan!.jpg",
     "have_desc": "",
     "gift__name": "Nu lasa porumbelul la volan!",
@@ -66,9 +66,8 @@
   },
 
   {
-    "have_both": "",
+    "reserved": true,
     "img_url": "Campionatul_modial_de_somn.jpg",
-    "have_desc": "",
     "gift__name": "Campionatul modial de somn",
     "gift__desc": "Daniel Napp\n(Traducător Iulia Dromereschi)",
     "gift__add": "Editura: Editura Univers"
@@ -97,14 +96,32 @@
     "img_url": "Usborne_little_first)stickers_mermaids.jpg",
     "gift__name": "Little first stickersmermaids.jpg"
   },
+  {
+    "img_url": "cand_cerul_este_prea_aproape.jpg",
+    "gift__name": "Cand cerul este prea aproape",
+    "gift__desc": "Adam Bestwick",
+    "gift__add": "Editura: Nomina"
+  },
 
-
-
-
-
-
-
-  
+  {
+    "reserved": true,
+    "img_url": "un-ou-cuminte.jpg",
+    "gift__name": "Un ou cuminte",
+    "gift__desc": "Jory John",
+    "gift__add": "Editura: Vlad și Cartea cu Genius"
+  },
+  {
+    "img_url": "samanta_rea.jpg",
+    "gift__name": "Samanta rea",
+    "gift__desc": "Jory John",
+    "gift__add": "Editura: Vlad și Cartea cu Genius"
+  },
+  {
+    "img_url": "cel-mai-cool-bob-de-fasole-.jpg",
+    "gift__name": "Cel mai cool bob de fasole",
+    "gift__desc": "Jory John",
+    "gift__add": "Editura: Vlad și Cartea cu Genius"
+  },
   {
     "have_both": "have_both",
     "img_url": "aiurea-n-tramvai1.jpg",
@@ -113,8 +130,6 @@
     "gift__desc": "Adina Rosetti",
     "gift__add": "Editura: Arthur"
   },
-
- 
   {
     "have_both": "have_both",
     "img_url": "corpul_uman_pe_diauntru.jpg",
@@ -124,7 +139,6 @@
     "gift__add": "Editura: Editura Univers"
   },
 
- 
   {
     "have_both": "",
     "img_url": "te-ai_intrebat_vreodata.JPG",
@@ -133,7 +147,7 @@
     "gift__desc": "Junia Wonders",
     "gift__add": "Editura: Editura Univers"
   },
-  
+
   {
     "have_both": "",
     "img_url": "povesti_de_fantastic_coaching_pentru_copii_cristina_betterelli.JPG",
@@ -153,21 +167,12 @@
   },
   {
     "have_both": "",
-    "img_url": "carte_sonora_gaseste-ma_atlasul lumii.jpg",
-    "have_desc": "",
-    "gift__name": "Carte sonora. Gaseste-ma! Atlasul lumii",
-    "gift__desc": "",
-    "gift__add": ""
-  },
-  {
-    "have_both": "",
     "img_url": "primul_meu_atlas_o_calatorie_in_jurul_lumii.JPG",
     "have_desc": "",
     "gift__name": "Primul meu atlas. O calatorie in jurul lumii",
     "gift__desc": "Sandrine Le GuenSteffie Brocoli",
     "gift__add": "Editura: Niculescu Kids"
   },
-
   {
     "have_both": "",
     "img_url": "marea_carte_a_super_puterilor.JPG",
@@ -202,12 +207,8 @@
     "gift__add": "Editura: Editura Univers"
   },
 
-
-
-
-
   {
-    "reserved":true,
+    "reserved": true,
     "img_url": "ce_face_lumea_toata_ziua.JPG",
     "have_desc": "",
     "gift__name": "Ce face lumea toata ziua?",
@@ -229,6 +230,4 @@
     "gift__desc": "Simona Epure",
     "gift__add": "Editura: DPH"
   }
-
-
 ]
