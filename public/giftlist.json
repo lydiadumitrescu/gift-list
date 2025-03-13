@@ -231,6 +231,18 @@
     "gift__add": "Editura: DPH"
   },
   {
+    "img_url": "Laptop_Lexibook_Paw_Patrol_170_activitati.jpg",
+    "gift__name": "Laptop Lexibook Paw Patrol",
+    "gift__desc": "170 activitati",
+    "gift__add": "Brand: Lexibook"
+  },
+  {
+    "img_url": "Vehicul_Bruder-Range_Rover_Velar_de_politie.jpg",
+    "gift__name": "Range Rover Velar de politie",
+    "gift__desc": "Bruder 2890",
+    "gift__add": "Brand: Bruder"
+  },
+  {
     "have_both": "have_both",
     "reserved": true,
     "img_url": "oceanul-emotiilor-balena-se-simte-ingrijorata.jpg",
@@ -325,11 +337,13 @@
     "reserved": true,
     "img_url": "connetix.jpg",
     "have_desc": "Deja cumparat \n (427.07 RON)",
-    "gift__name": "Connetix rainbow 102"
+    "gift__name": "Connetix rainbow 102",
+    "gift__add": "Brand: Connetix"
   },
   {
     "reserved": true,
     "img_url": "lego_42672.jpg",
-    "gift__name": "Lego 42672"
+    "gift__name": "Lego 42672",
+    "gift__add": "Brand: Lego"
   }
 ]
