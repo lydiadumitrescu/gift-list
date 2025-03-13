@@ -2,7 +2,7 @@
   {
     "have_both": "have_both",
     "img_url": "planeta-e-casa-noastra-ema-si-eric-recicleaza.jpg",
-    "have_desc": "Deja cumparata \n (26.60 RON)",
+    "have_desc": "Deja cumparat \n (26.60 RON)",
     "gift__name": "Planeta e casa noastra: Ema si Eric recicleaza",
     "gift__desc": "Ioana Chicet Macoveiciuc",
     "gift__add": "Editura: DPH"
@@ -10,7 +10,7 @@
   {
     "have_both": "have_both",
     "img_url": "iubim-sa-calatorim-ema-si-eric-descopera-romania.jpg",
-    "have_desc": "Deja cumparata \n (32.20 RON)",
+    "have_desc": "Deja cumparat \n (32.20 RON)",
     "gift__name": "Iubim sa calatorim: Ema si Eric descopera Romania",
     "gift__desc": "Ioana Chicet-Macoveiciuc",
     "gift__add": "Editura: DPH"
@@ -125,7 +125,7 @@
   {
     "have_both": "have_both",
     "img_url": "aiurea-n-tramvai1.jpg",
-    "have_desc": "Deja cumparata \n (35.55 RON)",
+    "have_desc": "Deja cumparat \n (35.55 RON)",
     "gift__name": "Aiurea-n tramvai",
     "gift__desc": "Adina Rosetti",
     "gift__add": "Editura: Arthur"
@@ -133,7 +133,7 @@
   {
     "have_both": "have_both",
     "img_url": "corpul_uman_pe_diauntru.jpg",
-    "have_desc": "Deja cumparata \n (19.00 RON)",
+    "have_desc": "Deja cumparat \n (19.00 RON)",
     "gift__name": "Corpul uman pe dinauntru",
     "gift__desc": "Cristina Junyent",
     "gift__add": "Editura: Editura Univers"
@@ -185,7 +185,7 @@
     "reserved": false,
     "have_both": "have_both",
     "img_url": "bondarel_descopera_frumusetile_naturii.jpg",
-    "have_desc": "Deja cumparata \n (49.43 RON)",
+    "have_desc": "Deja cumparat \n (49.43 RON)",
     "gift__name": "Bondărel descoperă frumusețile naturii",
     "gift__desc": "Britta Sabbag, Maite Kelly, Joelle Tourlonias",
     "gift__add": "Editura: Corint Junior"
@@ -193,7 +193,7 @@
   {
     "have_both": "have_both",
     "img_url": "De_ce_trebuie_sa_merg_la_scoala.jpg",
-    "have_desc": "Deja cumparata \n (18.00 RON)",
+    "have_desc": "Deja cumparat \n (18.00 RON)",
     "gift__name": "De ce trebuie sa merg la scoala?",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic Junior"
@@ -201,7 +201,7 @@
   {
     "have_both": "have_both",
     "img_url": "Billycelnesocotit.jpg",
-    "have_desc": "Deja cumparata \n (27.00 RON)",
+    "have_desc": "Deja cumparat \n (27.00 RON)",
     "gift__name": "Billy cel nesocotit",
     "gift__desc": "Sheila Bair",
     "gift__add": "Editura: Editura Univers"
@@ -229,5 +229,107 @@
     "gift__name": "Intrebarile De ce?",
     "gift__desc": "Simona Epure",
     "gift__add": "Editura: DPH"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "oceanul-emotiilor-balena-se-simte-ingrijorata.jpg",
+    "have_desc": "Deja cumparat \n (13.20 RON)",
+    "gift__name": "Oceanul Emoțiilor - Balena se simte îngrijorată",
+    "gift__desc": "Katie Woolley",
+    "gift__add": "Editura: ArsLibri"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "oceanul-emotiilor-pestele-inger-se-simte-furios.jpg",
+    "have_desc": "Deja cumparat \n (13.20 RON)",
+    "gift__name": "Oceanul Emoțiilor - Peștele-Înger se simte furios",
+    "gift__desc": "Katie Woolley",
+    "gift__add": "Editura: ArsLibri"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "oceanul-emotiilor-meduza-se-simte-invidioasa.JPG",
+    "have_desc": "Deja cumparat \n (13.20 RON)",
+    "gift__name": "Oceanul Emoțiilor - Meduza se simte invidioasă",
+    "gift__desc": "Katie Woolley",
+    "gift__add": "Editura: ArsLibri"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "oceanul-emotiilor-pestele-spada-se-simte-trist.JPG",
+    "have_desc": "Deja cumparat \n (13.20 RON)",
+    "gift__name": "Oceanul Emoțiilor - Peștele-Spadă se simte trist",
+    "gift__desc": "Katie Woolley",
+    "gift__add": "Editura: ArsLibri"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "oceanul-emotiilor-rechinul-se-simte-timid.jpg",
+    "have_desc": "Deja cumparat \n (13.20 RON)",
+    "gift__name": "Oceanul Emoțiilor - Rechinul se simte timid",
+    "gift__desc": "Katie Woolley",
+    "gift__add": "Editura: ArsLibri"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "oceanul-emotiilor-steaua-de-mare-se-simte-speriata.jpg",
+    "have_desc": "Deja cumparat \n (13.20 RON)",
+    "gift__name": "Oceanul Emoțiilor - Steaua-de-Mare se simte speriată",
+    "gift__desc": "Katie Woolley",
+    "gift__add": "Editura: ArsLibri"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "povestile-bufnitei-pisoiul-care-se-temea-de-orice.jpg",
+    "have_desc": "Deja cumparat \n (27.30 RON)",
+    "gift__name": "Povestile bufnitei. Pisoiul care se temea de orice",
+    "gift__desc": "Eric-Emmanuel Schmitt",
+    "gift__add": "Editura: Humanitas Junior"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "Elefantul_care_nu_respecta_nimic.jpg",
+    "have_desc": "Deja cumparat \n (24.05 RON)",
+    "gift__name": "Povestile bufnitei. Elefantul care nu respecta nimic",
+    "gift__desc": "Eric-Emmanuel Schmitt",
+    "gift__add": "Editura: Humanitas Junior"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "povestile-bufniteiursul-care-voia-sa-fie-fericit.jpg",
+    "have_desc": "Deja cumparat \n (27.93 RON)",
+    "gift__name": "Povestile bufnitei. Ursul care voia sa fie fericit.",
+    "gift__desc": "Eric-Emmanuel Schmitt",
+    "gift__add": "Editura: Humanitas Junior"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "Povestile_Bufnitei_Insula_Libertatii.jpg",
+    "have_desc": "Deja cumparat \n (29.60 RON)",
+    "gift__name": "Povestile bufnitei. Insula Libertatii",
+    "gift__desc": "Eric-Emmanuel Schmitt",
+    "gift__add": "Editura: Humanitas Junior"
+  },
+  {
+    "have_both": "have_both",
+    "reserved": true,
+    "img_url": "connetix.jpg",
+    "have_desc": "Deja cumparat \n (427.07 RON)",
+    "gift__name": "Connetix rainbow 102"
+  },
+  {
+    "reserved": true,
+    "img_url": "lego_42672.jpg",
+    "gift__name": "Lego 42672"
   }
 ]
