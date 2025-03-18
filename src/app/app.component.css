@@ -68,7 +68,7 @@
 }
 
 .gifts__wrapper {
-  padding-top: 50px;
+  padding-top: 30px;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
@@ -95,7 +95,7 @@
 
   .gift__photo,
   .gift__photo {
-    opacity: 0.6;
+    opacity: 0.8;
   }
 
   .gift__photo__wrapper>p {
@@ -107,7 +107,8 @@
     border-radius: 15px;
     border: 1px solid red;
     /* padding: 25px 0; */
-    top: 196px;
+    /* top: 196px; */
+    top: 300px;
   }
 }
 
@@ -115,14 +116,24 @@
 
   .gift__photo,
   .gift__photo {
-    opacity: 0.4;
+    opacity: 0.2;
   }
 
   .gift__photo__wrapper>p {
+    /* position: absolute;
+    font-size: 30px;
+    font-weight: 700;
+    top: 300px; */
     position: absolute;
     font-size: 30px;
     font-weight: 700;
-    top: 220px;
+    color: black;
+    background-color: lemonchiffon;
+    border-radius: 15px;
+    border: 1px solid red;
+    top: 300px;
+    padding: 20px;
+    width: 220px;
   }
 
   .gift__name,
@@ -154,5 +165,23 @@
   input {
     width: 40px;
     height: 40px;
+  }
+}
+
+.have_both_checkbox__wrapped,
+.reseved_checkbox__wrapped {
+  min-width: 100%;
+  display: flex;
+  margin-bottom: 15px;
+
+  input {
+    margin-left: 30px;
+    height: 35px;
+    width: 35px;
+  }
+
+  p {
+    display: inline-block;
+    margin: 5px;
   }
 }

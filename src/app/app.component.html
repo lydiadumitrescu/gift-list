@@ -2,20 +2,30 @@
   <div class="logos">
     <img src="Mara.JPG" alt="logo">
     <img src="Gruia.JPG" alt="logo">
-  </div>
+  </div> 
   <div class="content">
 
     <h1>Salut</h1>
     <p>Multumim pentru ca vrei sa te implici. 🎉
       <br>
-      Cele etichetate "Deja cumparat" le pot "vinde" (le-am cumparat la diverse oferte).  
+      Cele etichetate "Deja cumparat" le pot "vinde" (le-am cumparat la diverse oferte).
       <br>
       Cele etichetate "Rezervat" nu mai pot fi alese.
     </p>
 
+    <div class="reseved_checkbox__wrapped">
+      <input type="checkbox" (change)="onReservedCheckboxChange($event)" checked/>
+      <p>Reserved</p>
+    </div>
+
+    <div class="have_both_checkbox__wrapped">
+      <input type="checkbox" (change)="onHaveBothCheckboxChange($event)" checked/>
+      <p>Have both</p>
+    </div>
 
     <div class="gifts__wrapper">
-      <div class="gift__wrapper" *ngFor="let gift of gifts;"
+      <div *ngFor="let gift of gifts;"> 
+        <div class="gift__wrapper" *ngIf="gift.display"
         [ngClass]="{'have-both': gift.have_both && !gift.reserved, 'reserved': gift.reserved}">
         <div class="gift__photo__wrapper">
           <img class="gift__photo" src="{{gift.img_url}}" alt="img">
@@ -30,6 +40,8 @@
           <input type="checkbox" id="scales" name="scales" />
         </div>
       </div>
+      </div>
+      
     </div>
 
   </div>

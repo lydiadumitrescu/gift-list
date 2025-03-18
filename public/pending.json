@@ -1,0 +1,86 @@
+[
+  {
+    "have_both": true,
+    "img_url": "Istoria_Romaniei_pentru_copii.jpeg",
+    "have_desc": "Deja cumparat \n (27.1 RON)",
+    "gift__name": "Istoria Romaniei pentru copii in 100 de imagini",
+    "gift__desc": "Cristian Vornicu",
+    "gift__add": "Editura: Niculescu Kids"
+  },
+  {
+    "have_both": true,
+    "img_url": "Dragostea_mea3.jpeg",
+    "have_desc": "Deja cumparat \n (25.5 RON)",
+    "gift__name": "Povești de suflet - Dragostea mea",
+    "gift__desc": "Astrid Desbordes",
+    "gift__add": "Editura: Gama"
+  },
+  {
+    "img_url": "coperta_fluturasul.png",
+    "gift__name": "Cicluri de viata. Fluturasul (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "img_url": "copertaalbinuta.png",
+    "gift__name": "Cicluri de viata. Albinuta (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "img_url": "copacelul.jpg",
+    "gift__name": "Cicluri de viata. Copacelul (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "img_url": "coperta_puisorul.png",
+    "gift__name": "Cicluri de viata. Puisorul (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "display": false,
+    "img_url": "atomii_si_moleculele.png",
+    "gift__name": "Descopera atomii si moleculele (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "display": false,
+    "img_url": "bacterii_si_virusi.png",
+    "gift__name": "Primii pasi in stiinta: Bacterii si virusuri (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "display": false,
+    "img_url": "cop_experimente.jpg",
+    "gift__name": "Experimente stiintifice (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "img_url": "prietenii_se_cearta_uneori.jpg",
+    "gift__name": "Prietenii se cearta uneori",
+    "gift__desc": "Joëlle Tourlonias, Michael Engler",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "img_url": "prieteni_pe_viata.jpg",
+    "gift__name": "Prieteni pe viata",
+    "gift__desc": "Joëlle Tourlonias, Michael Engler",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "img_url": "masinuta-metalica.jpg",
+    "gift__name": "Masinuta BMW X5",
+    "gift__desc": "rosu, 16 cm, lumini si sunete, usi mobile, capota mobila, portbagajul mobil"
+  },
+  {
+    "img_url": "atlasul-copilului-istet-julia-adams.jpg",
+    "gift__name": "Atlasul copilului istet",
+    "gift__desc": "Julia Adams",
+    "gift__add": "Editura: Bookzone"
+  }
+]
