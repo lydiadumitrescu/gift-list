@@ -1,0 +1,42 @@
+<div class="content">
+
+    <h1>Salut</h1>
+    <p>Multumim pentru ca vrei sa te implici. 🎉
+      <br>
+      Cele etichetate "Deja cumparat" le pot "vinde" (le-am cumparat la diverse oferte).
+      <br>
+      Cele etichetate "Rezervat" nu mai pot fi alese.
+    </p>
+
+    <div class="reseved_checkbox__wrapped">
+      <input type="checkbox" (change)="onReservedCheckboxChange($event)" checked/>
+      <p>Reserved</p>
+    </div>
+
+    <div class="have_both_checkbox__wrapped">
+      <input type="checkbox" (change)="onHaveBothCheckboxChange($event)" checked/>
+      <p>Have both</p>
+    </div>
+
+    <div class="gifts__wrapper">
+      <div *ngFor="let gift of gifts;"> 
+        <div class="gift__wrapper" *ngIf="gift.display"
+        [ngClass]="{'have-both': gift.have_both && !gift.reserved, 'reserved': gift.reserved}">
+        <div class="gift__photo__wrapper">
+          <img class="gift__photo" src="{{gift.img_url}}" alt="img">
+          <p *ngIf="gift.have_both && !gift.reserved">{{gift.have_desc}}</p>
+          <p *ngIf="gift.reserved">Rezervat</p>
+        </div>
+        <h2 class="gift__name">{{gift.gift__name}}</h2>
+        <h4 class="gift__desc">{{gift.gift__desc}}</h4>
+        <p class="gift__add">{{gift.gift__add}}</p>
+
+        <div class="checkbox__wrapper">
+          <input type="checkbox" id="scales" name="scales" />
+        </div>
+      </div>
+      </div>
+      
+    </div>
+
+  </div>

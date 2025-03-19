@@ -1,0 +1,148 @@
+
+  .content {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 1000px;
+    margin-bottom: 3rem;
+  }
+  
+  .content h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+  }
+  
+  .content p {
+    margin: 1.5rem;
+    font-size: 22px;
+  }
+  
+  .content {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: auto;
+  
+    .gift__add {
+      margin: 0;
+    }
+  }
+  
+  .gifts__wrapper {
+    padding-top: 30px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+  
+  .gift__wrapper {
+    width: 300px;
+    margin: 10px;
+    position: relative;
+    min-height: 500px;
+  }
+  
+  .gift__photo {
+    max-height: -webkit-fill-available;
+    max-width: -webkit-fill-available;
+  }
+  
+  .gift__name,
+  .gift__desc {
+    margin: 5px 0;
+  }
+  
+  .gift__wrapper.have-both {
+  
+    .gift__photo,
+    .gift__photo {
+      opacity: 0.8;
+    }
+  
+    .gift__photo__wrapper>p {
+      position: absolute;
+      font-size: 30px;
+      font-weight: 700;
+      color: red;
+      background-color: lemonchiffon;
+      border-radius: 15px;
+      border: 1px solid red;
+      /* padding: 25px 0; */
+      /* top: 196px; */
+      top: 300px;
+    }
+  }
+  
+  .gift__wrapper.reserved {
+  
+    .gift__photo,
+    .gift__photo {
+      opacity: 0.2;
+    }
+  
+    .gift__photo__wrapper>p {
+      /* position: absolute;
+      font-size: 30px;
+      font-weight: 700;
+      top: 300px; */
+      position: absolute;
+      font-size: 30px;
+      font-weight: 700;
+      color: black;
+      background-color: lemonchiffon;
+      border-radius: 15px;
+      border: 1px solid red;
+      top: 300px;
+      padding: 20px;
+      width: 220px;
+    }
+  
+    .gift__name,
+    .gift__desc,
+    .gift__add {
+      color: grey;
+    }
+  }
+  
+  .gift__photo__wrapper {
+    border: 3px solid lightsalmon;
+    border-radius: 10px;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .checkbox__wrapper {
+    display: none;
+    max-height: max-content;
+    max-width: max-content;
+    position: absolute;
+    top: 0;
+    right: 0;
+  
+    input {
+      width: 40px;
+      height: 40px;
+    }
+  }
+  
+  .have_both_checkbox__wrapped,
+  .reseved_checkbox__wrapped {
+    min-width: 100%;
+    display: flex;
+    margin-bottom: 15px;
+  
+    input {
+      margin-left: 30px;
+      height: 35px;
+      width: 35px;
+    }
+  
+    p {
+      display: inline-block;
+      margin: 5px;
+    }
+  }
