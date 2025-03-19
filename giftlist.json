@@ -1,6 +1,6 @@
 [
   {
-    "have_both": "have_both",
+    "have_both": true,
     "img_url": "planeta-e-casa-noastra-ema-si-eric-recicleaza.jpg",
     "have_desc": "Deja cumparat \n (26.60 RON)",
     "gift__name": "Planeta e casa noastra: Ema si Eric recicleaza",
@@ -8,7 +8,7 @@
     "gift__add": "Editura: DPH"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "img_url": "iubim-sa-calatorim-ema-si-eric-descopera-romania.jpg",
     "have_desc": "Deja cumparat \n (32.20 RON)",
     "gift__name": "Iubim sa calatorim: Ema si Eric descopera Romania",
@@ -18,53 +18,42 @@
   {
     "reserved": true,
     "img_url": "nu_lasa_porumbelul_la_volan!.jpg",
-    "have_desc": "",
     "gift__name": "Nu lasa porumbelul la volan!",
     "gift__desc": "Mo Willems",
     "gift__add": "Editura: Grupul Art"
   },
-
   {
-    "have_both": "",
     "img_url": "petunia.jpg",
-    "have_desc": "",
     "gift__name": "Petunia (Limba: Romana)",
     "gift__desc": "Roger Duvoisin",
     "gift__add": "Editura: Portocala Albastra"
   },
   {
-    "have_both": "",
     "img_url": "superputerile_cartilor.jpg",
-    "have_desc": "",
     "gift__name": "Superputerile cartilor",
     "gift__desc": "Marja Monette-Millette",
     "gift__add": "DPH"
   },
   {
-    "have_both": "",
     "img_url": "Noi_suntem_aici.JPG",
-    "have_desc": "",
     "gift__name": "Noi suntem aici",
     "gift__desc": "Oliver Jeffers",
     "gift__add": "Editura: Panda"
   },
   {
-    "have_both": "",
+    "have_both": true,
     "img_url": "ATLAS_ilustrat_pentru_copii.jpg",
-    "have_desc": "",
+    "have_desc": "Deja cumparat \n (72.22 RON)",
     "gift__name": "Atlas ilustrat pentru copii",
     "gift__desc": "Andrew Brooks",
-    "gift__add": "Editura: LiteraMica"
+    "gift__add": "Editura: Litera Mica"
   },
   {
-    "have_both": "",
     "img_url": "un_fel_de.jpg",
-    "have_desc": "",
     "gift__name": "Un fel de...",
     "gift__desc": "Peter H. Reynolds",
     "gift__add": "Editura: DPH"
   },
-
   {
     "reserved": true,
     "img_url": "Campionatul_modial_de_somn.jpg",
@@ -72,27 +61,21 @@
     "gift__desc": "Daniel Napp\n(Traducător Iulia Dromereschi)",
     "gift__add": "Editura: Editura Univers"
   },
-
   {
-    "have_both": "",
     "img_url": "Rasul_e_cel_mai_bun_medicament.jpg",
     "gift__name": "Rasul este cel mai bun medicament",
     "gift__desc": "Gunther Jakobs, Uli Geisler",
     "gift__add": "Editura: Editura Univers"
   },
-
   {
-    "have_both": "",
     "img_url": "abtibilduri-repozitionabile-djeco-moda.jpg",
     "gift__name": "Abtibilduri repozitionabile djeco"
   },
   {
-    "have_both": "",
     "img_url": "Sticler_dolly_dressing_mermaids.jpg",
     "gift__name": "Sticler dolly dressing mermaids"
   },
   {
-    "have_both": "",
     "img_url": "Usborne_little_first)stickers_mermaids.jpg",
     "gift__name": "Little first stickersmermaids.jpg"
   },
@@ -102,7 +85,6 @@
     "gift__desc": "Adam Bestwick",
     "gift__add": "Editura: Nomina"
   },
-
   {
     "reserved": true,
     "img_url": "un-ou-cuminte.jpg",
@@ -123,7 +105,7 @@
     "gift__add": "Editura: Vlad și Cartea cu Genius"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "img_url": "aiurea-n-tramvai1.jpg",
     "have_desc": "Deja cumparat \n (35.55 RON)",
     "gift__name": "Aiurea-n tramvai",
@@ -131,59 +113,51 @@
     "gift__add": "Editura: Arthur"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "img_url": "corpul_uman_pe_diauntru.jpg",
     "have_desc": "Deja cumparat \n (19.00 RON)",
     "gift__name": "Corpul uman pe dinauntru",
     "gift__desc": "Cristina Junyent",
     "gift__add": "Editura: Editura Univers"
   },
-
   {
-    "have_both": "",
     "img_url": "te-ai_intrebat_vreodata.JPG",
     "have_desc": "",
     "gift__name": "Te-ai întrebat vreodată ce vei fi?",
     "gift__desc": "Junia Wonders",
     "gift__add": "Editura: Editura Univers"
   },
-
   {
-    "have_both": "",
+    "reserved": true,
+    "have_both": true,
     "img_url": "povesti_de_fantastic_coaching_pentru_copii_cristina_betterelli.JPG",
-    "have_desc": "",
+    "have_desc": "Deja cumparat \n (71.25 RON)",
     "gift__name": "Povesti de fantastic coaching pentru copii",
     "gift__desc": "Cristina Betterelli",
     "gift__add": "Editura: Creator"
   },
-
   {
-    "have_both": "",
     "img_url": "350_English_and_romanian.jpg",
-    "have_desc": "",
-    "gift__name": "350 words. 350 de cuvinte in engleza si romana",
-    "gift__desc": "",
-    "gift__add": ""
+    "gift__name": "350 words. 350 de cuvinte in engleza si romana"
   },
   {
-    "have_both": "",
+    "reserved": true,
+    "have_both": true,
     "img_url": "primul_meu_atlas_o_calatorie_in_jurul_lumii.JPG",
-    "have_desc": "",
+    "have_desc": "Deja cumparat \n (44.91 RON)",
     "gift__name": "Primul meu atlas. O calatorie in jurul lumii",
     "gift__desc": "Sandrine Le GuenSteffie Brocoli",
     "gift__add": "Editura: Niculescu Kids"
   },
   {
-    "have_both": "",
     "img_url": "marea_carte_a_super_puterilor.JPG",
-    "have_desc": "",
-    "gift__name": "Atlas ilustrat pentru copii",
+    "have_desc": "Deja cumparat \n (49.43 RON)",
+    "gift__name": "Marea carte a super puterilor",
     "gift__desc": "Susanna Isern",
     "gift__add": "Editura: Arthur"
   },
   {
-    "reserved": false,
-    "have_both": "have_both",
+    "have_both": true,
     "img_url": "bondarel_descopera_frumusetile_naturii.jpg",
     "have_desc": "Deja cumparat \n (49.43 RON)",
     "gift__name": "Bondărel descoperă frumusețile naturii",
@@ -191,7 +165,7 @@
     "gift__add": "Editura: Corint Junior"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "img_url": "De_ce_trebuie_sa_merg_la_scoala.jpg",
     "have_desc": "Deja cumparat \n (18.00 RON)",
     "gift__name": "De ce trebuie sa merg la scoala?",
@@ -199,32 +173,27 @@
     "gift__add": "Editura: Univers Enciclopedic Junior"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "img_url": "Billycelnesocotit.jpg",
     "have_desc": "Deja cumparat \n (27.00 RON)",
     "gift__name": "Billy cel nesocotit",
     "gift__desc": "Sheila Bair",
     "gift__add": "Editura: Editura Univers"
   },
-
   {
     "reserved": true,
     "img_url": "ce_face_lumea_toata_ziua.JPG",
-    "have_desc": "",
     "gift__name": "Ce face lumea toata ziua?",
     "gift__desc": "Richard Scarry",
     "gift__add": "Editura: Cartea Copiilor"
   },
   {
-    "have_both": "",
     "img_url": "roata_roata_prin_lumea_toata.JPG",
-    "have_desc": "",
     "gift__name": "Roata, roata prin lumea toata",
     "gift__desc": "Richard Scarry",
     "gift__add": "Editura: Cartea Copiilor"
   },
   {
-    "have_both": "",
     "img_url": "intrebarile-de-ce.jpg",
     "gift__name": "Intrebarile De ce?",
     "gift__desc": "Simona Epure",
@@ -243,7 +212,7 @@
     "gift__add": "Brand: Bruder"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "oceanul-emotiilor-balena-se-simte-ingrijorata.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
@@ -252,7 +221,7 @@
     "gift__add": "Editura: ArsLibri"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "oceanul-emotiilor-pestele-inger-se-simte-furios.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
@@ -261,7 +230,7 @@
     "gift__add": "Editura: ArsLibri"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "oceanul-emotiilor-meduza-se-simte-invidioasa.JPG",
     "have_desc": "Deja cumparat \n (13.20 RON)",
@@ -270,7 +239,7 @@
     "gift__add": "Editura: ArsLibri"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "oceanul-emotiilor-pestele-spada-se-simte-trist.JPG",
     "have_desc": "Deja cumparat \n (13.20 RON)",
@@ -279,7 +248,7 @@
     "gift__add": "Editura: ArsLibri"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "oceanul-emotiilor-rechinul-se-simte-timid.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
@@ -288,7 +257,7 @@
     "gift__add": "Editura: ArsLibri"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "oceanul-emotiilor-steaua-de-mare-se-simte-speriata.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
@@ -297,7 +266,7 @@
     "gift__add": "Editura: ArsLibri"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "povestile-bufnitei-pisoiul-care-se-temea-de-orice.jpg",
     "have_desc": "Deja cumparat \n (27.30 RON)",
@@ -306,7 +275,7 @@
     "gift__add": "Editura: Humanitas Junior"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "Elefantul_care_nu_respecta_nimic.jpg",
     "have_desc": "Deja cumparat \n (24.05 RON)",
@@ -315,7 +284,7 @@
     "gift__add": "Editura: Humanitas Junior"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "povestile-bufniteiursul-care-voia-sa-fie-fericit.jpg",
     "have_desc": "Deja cumparat \n (27.93 RON)",
@@ -324,7 +293,7 @@
     "gift__add": "Editura: Humanitas Junior"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "Povestile_Bufnitei_Insula_Libertatii.jpg",
     "have_desc": "Deja cumparat \n (29.60 RON)",
@@ -333,7 +302,7 @@
     "gift__add": "Editura: Humanitas Junior"
   },
   {
-    "have_both": "have_both",
+    "have_both": true,
     "reserved": true,
     "img_url": "connetix.jpg",
     "have_desc": "Deja cumparat \n (427.07 RON)",
