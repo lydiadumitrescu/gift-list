@@ -1,43 +1,49 @@
 [
   {
     "have_both": true,
-    "img_url": "Istoria_Romaniei_pentru_copii.jpeg",
-    "have_desc": "Deja cumparat \n (27.1 RON)",
-    "gift__name": "Istoria Romaniei pentru copii in 100 de imagini",
-    "gift__desc": "Cristian Vornicu",
-    "gift__add": "Editura: Niculescu Kids"
+    "img_url": "Billycelnesocotit.jpg",
+    "have_desc": "Deja cumparat \n (27.00 RON)",
+    "gift__name": "Billy cel nesocotit",
+    "gift__desc": "Sheila Bair",
+    "gift__add": "Editura: Editura Univers"
   },
   {
-    "have_both": true,
-    "img_url": "Dragostea_mea3.jpeg",
-    "have_desc": "Deja cumparat \n (25.5 RON)",
-    "gift__name": "Povești de suflet - Dragostea mea",
-    "gift__desc": "Astrid Desbordes",
-    "gift__add": "Editura: Gama"
+    "img_url": "roata_roata_prin_lumea_toata.JPG",
+    "gift__name": "Roata, roata prin lumea toata",
+    "gift__desc": "Richard Scarry",
+    "gift__add": "Editura: Cartea Copiilor"
+  },
+  
+  {
+    "img_url": "intrebarile-de-ce.jpg",
+    "gift__name": "Intrebarile De ce?",
+    "gift__desc": "Simona Epure",
+    "gift__add": "Editura: DPH"
+  },
+ 
+  {
+    "img_url": "Ava_cea_puternica.jpg",
+    "gift__name": "Ava cea puternica",
+    "gift__desc": "Kristina Magdalena Henn , Anja Grote",
+    "gift__add": "Editura: sofiami"
   },
   {
-    "img_url": "coperta_fluturasul.png",
-    "gift__name": "Cicluri de viata. Fluturasul (Usborne)",
-    "gift__desc": "Usborne Books",
-    "gift__add": "Editura: Univers Enciclopedic"
+    "img_url": "Iggy_Peck_micul_arhitect.jpg",
+    "gift__name": "Iggy Peck, micul arhitect",
+    "gift__desc": "Andrea Beaty",
+    "gift__add": "Editura: Pandora M"
   },
   {
-    "img_url": "copertaalbinuta.png",
-    "gift__name": "Cicluri de viata. Albinuta (Usborne)",
-    "gift__desc": "Usborne Books",
-    "gift__add": "Editura: Univers Enciclopedic"
+    "img_url": "Lila_Greer_invatatoare_inovatoare.jpg",
+    "gift__name": "Lila Greer, invatatoare inovatoare",
+    "gift__desc": "Andrea Beaty",
+    "gift__add": "Editura: Pandora M"
   },
   {
-    "img_url": "copacelul.jpg",
-    "gift__name": "Cicluri de viata. Copacelul (Usborne)",
-    "gift__desc": "Usborne Books",
-    "gift__add": "Editura: Univers Enciclopedic"
-  },
-  {
-    "img_url": "coperta_puisorul.png",
-    "gift__name": "Cicluri de viata. Puisorul (Usborne)",
-    "gift__desc": "Usborne Books",
-    "gift__add": "Editura: Univers Enciclopedic"
+    "img_url": "Rosie_Revere_fetita_inginer.jpg",
+    "gift__name": "Rosie Revere, fetita inginer",
+    "gift__desc": "Andrea Beaty",
+    "gift__add": "Editura: Pandora M"
   },
   {
     "display": false,
@@ -60,27 +66,30 @@
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
+
   {
-    "img_url": "prietenii_se_cearta_uneori.jpg",
-    "gift__name": "Prietenii se cearta uneori",
-    "gift__desc": "Joëlle Tourlonias, Michael Engler",
-    "gift__add": "Editura: Univers Enciclopedic"
+    "img_url": "Ghidul_lemurului_pentru_a_manca_sanatos.jpg",
+    "gift__name": "Ghidul lemurului pentru a manca sanatos",
+    "gift__desc": "Lisa Edwards",
+    "gift__add": "Editura: Editura Univers"
   },
   {
-    "img_url": "prieteni_pe_viata.jpg",
-    "gift__name": "Prieteni pe viata",
-    "gift__desc": "Joëlle Tourlonias, Michael Engler",
-    "gift__add": "Editura: Univers Enciclopedic"
+    "img_url": "Ghidul_Koala_pentru_somn.jpg",
+    "gift__name": "Ghidul Koala pentru somn",
+    "gift__desc": "Lisa Edwards",
+    "gift__add": "Editura: Editura Univers"
   },
   {
-    "img_url": "masinuta-metalica.jpg",
-    "gift__name": "Masinuta BMW X5",
-    "gift__desc": "rosu, 16 cm, lumini si sunete, usi mobile, capota mobila, portbagajul mobil"
+    "img_url": "Ghidul_lenesului_pentru_a_ti_pastra_calmul.jpg",
+    "gift__name": "Ghidul lenesului pentru a-ti pastra calmul",
+    "gift__desc": "Lisa Edwards",
+    "gift__add": "Editura: Editura Univers"
   },
+
   {
-    "img_url": "atlasul-copilului-istet-julia-adams.jpg",
-    "gift__name": "Atlasul copilului istet",
-    "gift__desc": "Julia Adams",
-    "gift__add": "Editura: Bookzone"
+    "img_url": "Calin_si_ornitorincul_sau.jpg",
+    "gift__name": "Calin si ornitorincul sau",
+    "gift__desc": "Dirk Hennig , Michael Engler",
+    "gift__add": "Editura: DPH"
   }
 ]
