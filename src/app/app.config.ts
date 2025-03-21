@@ -5,5 +5,9 @@ import { routes } from './app.routes';
 import { CommonModule } from '@angular/common';
 
 export const appConfig: ApplicationConfig = {
-  providers: [provideZoneChangeDetection({ eventCoalescing: true }), provideRouter(routes), CommonModule]
+  providers: [
+    provideZoneChangeDetection({ eventCoalescing: true }),
+    provideRouter(routes),
+    CommonModule
+  ],
 };

@@ -1,1 +1,95 @@
-<p>add-gift works!</p>
+<div class="add-gift__wrapper">
+  <div class="add-gift__line">
+    <label for="gift__name">Name</label>
+    <input
+      id="gift__name"
+      name="gift__name"
+      class="gift__name__input"
+      type="text"
+      [(ngModel)]="giftName"
+      (change)="previewGift()"
+      #ctrl="ngModel"
+      required
+    />
+  </div>
+  <div class="add-gift__line">
+    <label>Brand/Editura</label>
+    <input
+      class="gift__add__input"
+      [(ngModel)]="giftAdd"
+      (change)="previewGift()"
+      type="text"
+      #ctrl="ngModel"
+    />
+  </div>
+  <div class="add-gift__line">
+    <label>Description/Author</label>
+    <input
+      class="gift__desc__input"
+      type="text"
+      [(ngModel)]="giftDesc"
+      (change)="previewGift()"
+      #ctrl="ngModel"
+    />
+  </div>
+  <div class="add-gift__line">
+    <label>Img url</label
+    ><input
+      class="img_url__input"
+      type="text"
+      [(ngModel)]="imgUrl"
+      (change)="previewGift()"
+      #ctrl="ngModel"
+    />
+  </div>
+
+  <div class="add-gift__line">
+    <label>Display</label>
+    <input
+      class="display__input"
+      type="checkbox"
+      checked
+      [(ngModel)]="display"
+      (change)="previewGift()"
+      #ctrl="ngModel"
+    />
+  </div>
+
+  <div class="add-gift__line">
+    <label>Have both</label>
+    <input
+      class="have_both__input"
+      type="checkbox"
+      [(ngModel)]="haveBoth"
+      (change)="previewGift()"
+      #ctrl="ngModel"
+    />
+  </div>
+  <div class="add-gift__line">
+    <label>Description</label
+    ><input
+      class="have_desc__input"
+      type="text"
+      [(ngModel)]="haveBothDesc"
+      (change)="previewGift()"
+      #ctrl="ngModel"
+    />
+  </div>
+
+  <div class="add-gift__line">
+    <label>Reserved</label>
+    <input
+      class="reserved__input"
+      type="checkbox"
+      [(ngModel)]="reserved"
+      (change)="previewGift()"
+      #ctrl="ngModel"
+    />
+  </div>
+
+  <div class="add-gift__line">
+    <button (click)="addGift()">Add in JSON</button>
+  </div>
+  <textarea>{{ newGift | json }}</textarea>
+  <pre>{{ gifts | json }}</pre>
+</div>
