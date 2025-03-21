@@ -13,14 +13,12 @@
     "gift__desc": "Richard Scarry",
     "gift__add": "Editura: Cartea Copiilor"
   },
-  
   {
     "img_url": "intrebarile-de-ce.jpg",
     "gift__name": "Intrebarile De ce?",
     "gift__desc": "Simona Epure",
     "gift__add": "Editura: DPH"
   },
- 
   {
     "img_url": "Ava_cea_puternica.jpg",
     "gift__name": "Ava cea puternica",
@@ -66,7 +64,6 @@
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
-
   {
     "img_url": "Ghidul_lemurului_pentru_a_manca_sanatos.jpg",
     "gift__name": "Ghidul lemurului pentru a manca sanatos",
@@ -85,7 +82,6 @@
     "gift__desc": "Lisa Edwards",
     "gift__add": "Editura: Editura Univers"
   },
-
   {
     "img_url": "Calin_si_ornitorincul_sau.jpg",
     "gift__name": "Calin si ornitorincul sau",
