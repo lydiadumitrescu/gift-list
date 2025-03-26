@@ -8,6 +8,15 @@
     "gift__add": "Editura: Editura Univers"
   },
   {
+    "display": false,
+    "have_both": true,
+    "img_url": "atomii_si_moleculele.png",
+    "have_desc": "Deja cumparat \n 39.00 RON)",
+    "gift__name": "Descopera atomii si moleculele (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
     "img_url": "roata_roata_prin_lumea_toata.JPG",
     "gift__name": "Roata, roata prin lumea toata",
     "gift__desc": "Richard Scarry",
@@ -42,13 +51,6 @@
     "gift__name": "Rosie Revere, fetita inginer",
     "gift__desc": "Andrea Beaty",
     "gift__add": "Editura: Pandora M"
-  },
-  {
-    "display": false,
-    "img_url": "atomii_si_moleculele.png",
-    "gift__name": "Descopera atomii si moleculele (Usborne)",
-    "gift__desc": "Usborne Books",
-    "gift__add": "Editura: Univers Enciclopedic"
   },
   {
     "display": false,

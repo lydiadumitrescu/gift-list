@@ -1,22 +1,5 @@
 [
   {
-    "img_url": "Laptop_Lexibook_Paw_Patrol_170_activitati.jpg",
-    "gift__name": "Laptop Lexibook Paw Patrol",
-    "gift__desc": "170 activitati",
-    "gift__add": "Brand: Lexibook"
-  },
-  {
-    "img_url": "Vehicul_Bruder-Range_Rover_Velar_de_politie.jpg",
-    "gift__name": "Range Rover Velar de politie",
-    "gift__desc": "Bruder 2890",
-    "gift__add": "Brand: Bruder"
-  },
-  {
-    "img_url": "masinuta-metalica.jpg",
-    "gift__name": "Masinuta BMW X5",
-    "gift__desc": "rosu, 16 cm, lumini si sunete, usi mobile, capota mobila, portbagajul mobil"
-  },
-  {
     "have_both": true,
     "img_url": "planeta-e-casa-noastra-ema-si-eric-recicleaza.jpg",
     "have_desc": "Deja cumparat \n (26.60 RON)",
@@ -33,19 +16,17 @@
     "gift__add": "Editura: DPH"
   },
   {
+    "have_both": true,
+    "have_desc": "Deja cumparat \n (39.00 RON)",
     "img_url": "petunia.jpg",
     "gift__name": "Petunia (Limba: Romana)",
     "gift__desc": "Roger Duvoisin",
     "gift__add": "Editura: Portocala Albastra"
   },
   {
-    "img_url": "superputerile_cartilor.jpg",
-    "gift__name": "Superputerile cartilor",
-    "gift__desc": "Marja Monette-Millette",
-    "gift__add": "DPH"
-  },
-  {
+    "have_both": true,
     "img_url": "Noi_suntem_aici.JPG",
+    "have_desc": "Deja cumparat \n (24.65 RON)",
     "gift__name": "Noi suntem aici",
     "gift__desc": "Oliver Jeffers",
     "gift__add": "Editura: Panda"
@@ -59,47 +40,12 @@
     "gift__add": "Editura: Litera Mica"
   },
   {
-    "img_url": "un_fel_de.jpg",
-    "gift__name": "Un fel de...",
-    "gift__desc": "Peter H. Reynolds",
-    "gift__add": "Editura: DPH"
-  },
-  {
+    "have_both": true,
     "img_url": "Rasul_e_cel_mai_bun_medicament.jpg",
+    "have_desc": "Deja cumparat \n (30.99 RON)",
     "gift__name": "Rasul este cel mai bun medicament",
     "gift__desc": "Gunther Jakobs, Uli Geisler",
     "gift__add": "Editura: Editura Univers"
-  },
-  {
-    "img_url": "abtibilduri-repozitionabile-djeco-moda.jpg",
-    "gift__name": "Abtibilduri repozitionabile djeco"
-  },
-  {
-    "img_url": "Sticler_dolly_dressing_mermaids.jpg",
-    "gift__name": "Sticler dolly dressing mermaids"
-  },
-  {
-    "img_url": "Usborne_little_first)stickers_mermaids.jpg",
-    "gift__name": "Little first stickersmermaids.jpg"
-  },
-  {
-    "img_url": "cand_cerul_este_prea_aproape.jpg",
-    "gift__name": "Cand cerul este prea aproape",
-    "gift__desc": "Adam Bestwick",
-    "gift__add": "Editura: Nomina"
-  },
-
-  {
-    "img_url": "samanta_rea.jpg",
-    "gift__name": "Samanta rea",
-    "gift__desc": "Jory John",
-    "gift__add": "Editura: Vlad și Cartea cu Genius"
-  },
-  {
-    "img_url": "cel-mai-cool-bob-de-fasole-.jpg",
-    "gift__name": "Cel mai cool bob de fasole",
-    "gift__desc": "Jory John",
-    "gift__add": "Editura: Vlad și Cartea cu Genius"
   },
   {
     "have_both": true,
@@ -117,22 +63,11 @@
     "gift__desc": "Cristina Junyent",
     "gift__add": "Editura: Editura Univers"
   },
-  {
-    "img_url": "te-ai_intrebat_vreodata.JPG",
-    "have_desc": "",
-    "gift__name": "Te-ai întrebat vreodată ce vei fi?",
-    "gift__desc": "Junia Wonders",
-    "gift__add": "Editura: Editura Univers"
-  },
 
   {
-    "img_url": "350_English_and_romanian.jpg",
-    "gift__name": "350 words. 350 de cuvinte in engleza si romana"
-  },
-
-  {
+    "have_both": true,
     "img_url": "marea_carte_a_super_puterilor.JPG",
-    "have_desc": "Deja cumparat \n (49.43 RON)",
+    "have_desc": "Deja cumparat \n (36.46 RON)",
     "gift__name": "Marea carte a super puterilor",
     "gift__desc": "Susanna Isern",
     "gift__add": "Editura: Arthur"
@@ -170,47 +105,113 @@
     "gift__add": "Editura: Gama"
   },
   {
+    "have_both": true,
     "img_url": "coperta_fluturasul.png",
+    "have_desc": "Deja cumparat \n (18.40 RON)",
     "gift__name": "Cicluri de viata. Fluturasul (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "copertaalbinuta.png",
+    "have_desc": "Deja cumparat \n (18.40 RON)",
     "gift__name": "Cicluri de viata. Albinuta (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "copacelul.jpg",
+    "have_desc": "Deja cumparat \n (18.40 RON)",
     "gift__name": "Cicluri de viata. Copacelul (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "coperta_puisorul.png",
+    "have_desc": "Deja cumparat \n (18.40 RON)",
     "gift__name": "Cicluri de viata. Puisorul (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "prietenii_se_cearta_uneori.jpg",
+    "have_desc": "Deja cumparat \n (9.60 RON)",
     "gift__name": "Prietenii se cearta uneori",
     "gift__desc": "Joëlle Tourlonias, Michael Engler",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "prieteni_pe_viata.jpg",
+    "have_desc": "Deja cumparat \n (9.60 RON)",
     "gift__name": "Prieteni pe viata",
     "gift__desc": "Joëlle Tourlonias, Michael Engler",
     "gift__add": "Editura: Univers Enciclopedic"
   },
-
   {
+    "have_both": true,
     "img_url": "atlasul-copilului-istet-julia-adams.jpg",
+    "have_desc": "Deja cumparat \n (29.0 RON)",
     "gift__name": "Atlasul copilului istet",
     "gift__desc": "Julia Adams",
     "gift__add": "Editura: Bookzone"
+  },
+  {
+    "img_url": "superputerile_cartilor.jpg",
+    "gift__name": "Superputerile cartilor",
+    "gift__desc": "Marja Monette-Millette",
+    "gift__add": "DPH"
+  },
+  {
+    "img_url": "un_fel_de.jpg",
+    "gift__name": "Un fel de...",
+    "gift__desc": "Peter H. Reynolds",
+    "gift__add": "Editura: DPH"
+  },
+  {
+    "img_url": "abtibilduri-repozitionabile-djeco-moda.jpg",
+    "gift__name": "Abtibilduri repozitionabile djeco"
+  },
+  {
+    "img_url": "Sticler_dolly_dressing_mermaids.jpg",
+    "gift__name": "Sticler dolly dressing mermaids"
+  },
+  {
+    "img_url": "Usborne_little_first)stickers_mermaids.jpg",
+    "gift__name": "Little first stickersmermaids.jpg"
+  },
+  {
+    "img_url": "cand_cerul_este_prea_aproape.jpg",
+    "gift__name": "Cand cerul este prea aproape",
+    "gift__desc": "Adam Bestwick",
+    "gift__add": "Editura: Nomina"
+  },
+  {
+    "img_url": "samanta_rea.jpg",
+    "gift__name": "Samanta rea",
+    "gift__desc": "Jory John",
+    "gift__add": "Editura: Vlad și Cartea cu Genius"
+  },
+  {
+    "img_url": "cel-mai-cool-bob-de-fasole-.jpg",
+    "gift__name": "Cel mai cool bob de fasole",
+    "gift__desc": "Jory John",
+    "gift__add": "Editura: Vlad și Cartea cu Genius"
+  },
+  {
+    "img_url": "te-ai_intrebat_vreodata.JPG",
+    "have_desc": "",
+    "gift__name": "Te-ai întrebat vreodată ce vei fi?",
+    "gift__desc": "Junia Wonders",
+    "gift__add": "Editura: Editura Univers"
+  },
+  {
+    "img_url": "350_English_and_romanian.jpg",
+    "gift__name": "350 words. 350 de cuvinte in engleza si romana"
   },
   {
     "img_url": "Un_punct_de_la_care_incepe_totul.jpg",
@@ -218,7 +219,6 @@
     "gift__desc": "Peter H. Reynolds",
     "gift__add": "Editura: DPH"
   },
-
   {
     "img_url": "Casuta.jpg",
     "gift__name": "Casuta",
