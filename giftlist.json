@@ -16,6 +16,8 @@
     "gift__add": "Editura: DPH"
   },
   {
+    "have_both": true,
+    "have_desc": "Deja cumparat \n (39.00 RON)",
     "img_url": "petunia.jpg",
     "gift__name": "Petunia (Limba: Romana)",
     "gift__desc": "Roger Duvoisin",
@@ -28,7 +30,9 @@
     "gift__add": "DPH"
   },
   {
+    "have_both": true,
     "img_url": "Noi_suntem_aici.JPG",
+    "have_desc": "Deja cumparat \n (24.65 RON)",
     "gift__name": "Noi suntem aici",
     "gift__desc": "Oliver Jeffers",
     "gift__add": "Editura: Panda"
@@ -48,7 +52,11 @@
     "gift__add": "Editura: DPH"
   },
   {
+    "have_both": true,
+    "have_both": true,
     "img_url": "Rasul_e_cel_mai_bun_medicament.jpg",
+    "have_desc": "Deja cumparat \n (72.22 RON)",
+    "have_desc": "Deja cumparat \n (30.99 RON)",
     "gift__name": "Rasul este cel mai bun medicament",
     "gift__desc": "Gunther Jakobs, Uli Geisler",
     "gift__add": "Editura: Editura Univers"
@@ -114,8 +122,9 @@
   },
 
   {
+    "have_both": true,
     "img_url": "marea_carte_a_super_puterilor.JPG",
-    "have_desc": "Deja cumparat \n (49.43 RON)",
+    "have_desc": "Deja cumparat \n (36.46 RON)",
     "gift__name": "Marea carte a super puterilor",
     "gift__desc": "Susanna Isern",
     "gift__add": "Editura: Arthur"
@@ -202,7 +211,9 @@
   },
 
   {
+    "have_both": true,
     "img_url": "atlasul-copilului-istet-julia-adams.jpg",
+    "have_desc": "Deja cumparat \n (29.0 RON)",
     "gift__name": "Atlasul copilului istet",
     "gift__desc": "Julia Adams",
     "gift__add": "Editura: Bookzone"
