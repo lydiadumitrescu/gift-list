@@ -153,37 +153,49 @@
     "gift__add": "Editura: Gama"
   },
   {
+    "have_both": true,
     "img_url": "coperta_fluturasul.png",
+    "have_desc": "Deja cumparat \n (??? RON)",
     "gift__name": "Cicluri de viata. Fluturasul (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "copertaalbinuta.png",
+    "have_desc": "Deja cumparat \n (??? RON)",
     "gift__name": "Cicluri de viata. Albinuta (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "copacelul.jpg",
+    "have_desc": "Deja cumparat \n (??? RON)",
     "gift__name": "Cicluri de viata. Copacelul (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "coperta_puisorul.png",
+    "have_desc": "Deja cumparat \n (??? RON)",
     "gift__name": "Cicluri de viata. Puisorul (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "prietenii_se_cearta_uneori.jpg",
+    "have_desc": "Deja cumparat \n (??? RON)",
     "gift__name": "Prietenii se cearta uneori",
     "gift__desc": "Joëlle Tourlonias, Michael Engler",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
+    "have_both": true,
     "img_url": "prieteni_pe_viata.jpg",
+    "have_desc": "Deja cumparat \n (??? RON)",
     "gift__name": "Prieteni pe viata",
     "gift__desc": "Joëlle Tourlonias, Michael Engler",
     "gift__add": "Editura: Univers Enciclopedic"

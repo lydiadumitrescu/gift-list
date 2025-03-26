@@ -45,7 +45,9 @@
   },
   {
     "display": false,
+    "have_both": true,
     "img_url": "atomii_si_moleculele.png",
+    "have_desc": "Deja cumparat \n (??? RON)",
     "gift__name": "Descopera atomii si moleculele (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
