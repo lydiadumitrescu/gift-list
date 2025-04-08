@@ -7,6 +7,20 @@
   },
   {
     "have_both": true,
+    "display":false,
+    "img_url": "/cadouri/lego43253.jpg",
+    "have_desc": "Deja cumparat \n (90.99 RON)",
+    "gift__name": "LEGO® Disney Princess™ - Calendar de advent 43253"
+  },
+  {
+    "have_both": true,
+    "display":false,
+    "img_url": "/cadouri/lego60436.jpg",
+    "have_desc": "Deja cumparat \n (76.99 RON)",
+    "gift__name": "LEGO® City - Calendar de advent 60436"
+  },
+  {
+    "have_both": true,
     "img_url": "planeta-e-casa-noastra-ema-si-eric-recicleaza.jpg",
     "have_desc": "Deja cumparat \n (26.60 RON)",
     "gift__name": "Planeta e casa noastra: Ema si Eric recicleaza",
