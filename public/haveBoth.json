@@ -1,7 +1,7 @@
 [
   {
     "reserved": true,
-    "img_url": "nu_lasa_porumbelul_la_volan!.jpg",
+    "img_url": "./haveGiven/nu_lasa_porumbelul_la_volan!.jpg",
     "gift__name": "Nu lasa porumbelul la volan!",
     "gift__desc": "Mo Willems",
     "gift__add": "Editura: Grupul Art"
@@ -9,7 +9,7 @@
 
   {
     "reserved": true,
-    "img_url": "Campionatul_modial_de_somn.jpg",
+    "img_url": "./haveGiven/Campionatul_modial_de_somn.jpg",
     "gift__name": "Campionatul modial de somn",
     "gift__desc": "Daniel Napp\n(Traducător Iulia Dromereschi)",
     "gift__add": "Editura: Editura Univers"
@@ -17,7 +17,7 @@
 
   {
     "reserved": true,
-    "img_url": "un-ou-cuminte.jpg",
+    "img_url": "./haveGiven/un-ou-cuminte.jpg",
     "gift__name": "Un ou cuminte",
     "gift__desc": "Jory John",
     "gift__add": "Editura: Vlad și Cartea cu Genius"
@@ -25,7 +25,7 @@
   {
     "reserved": true,
     "have_both": true,
-    "img_url": "povesti_de_fantastic_coaching_pentru_copii_cristina_betterelli.JPG",
+    "img_url": "./haveGiven/povesti_de_fantastic_coaching_pentru_copii_cristina_betterelli.JPG",
     "have_desc": "Deja cumparat \n (71.25 RON)",
     "gift__name": "Povesti de fantastic coaching pentru copii",
     "gift__desc": "Cristina Betterelli",
@@ -34,7 +34,7 @@
   {
     "reserved": true,
     "have_both": true,
-    "img_url": "primul_meu_atlas_o_calatorie_in_jurul_lumii.JPG",
+    "img_url": "./haveGiven/primul_meu_atlas_o_calatorie_in_jurul_lumii.JPG",
     "have_desc": "Deja cumparat \n (44.91 RON)",
     "gift__name": "Primul meu atlas. O calatorie in jurul lumii",
     "gift__desc": "Sandrine Le GuenSteffie Brocoli",
@@ -43,7 +43,7 @@
 
   {
     "reserved": true,
-    "img_url": "ce_face_lumea_toata_ziua.JPG",
+    "img_url": "./haveGiven/ce_face_lumea_toata_ziua.JPG",
     "gift__name": "Ce face lumea toata ziua?",
     "gift__desc": "Richard Scarry",
     "gift__add": "Editura: Cartea Copiilor"
@@ -51,7 +51,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "oceanul-emotiilor-balena-se-simte-ingrijorata.jpg",
+    "img_url": "./haveGiven/oceanul-emotiilor-balena-se-simte-ingrijorata.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
     "gift__name": "Oceanul Emoțiilor - Balena se simte îngrijorată",
     "gift__desc": "Katie Woolley",
@@ -60,7 +60,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "oceanul-emotiilor-pestele-inger-se-simte-furios.jpg",
+    "img_url": "./haveGiven/oceanul-emotiilor-pestele-inger-se-simte-furios.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
     "gift__name": "Oceanul Emoțiilor - Peștele-Înger se simte furios",
     "gift__desc": "Katie Woolley",
@@ -69,7 +69,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "oceanul-emotiilor-meduza-se-simte-invidioasa.JPG",
+    "img_url": "./haveGiven/oceanul-emotiilor-meduza-se-simte-invidioasa.JPG",
     "have_desc": "Deja cumparat \n (13.20 RON)",
     "gift__name": "Oceanul Emoțiilor - Meduza se simte invidioasă",
     "gift__desc": "Katie Woolley",
@@ -78,7 +78,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "oceanul-emotiilor-pestele-spada-se-simte-trist.JPG",
+    "img_url": "./haveGiven/oceanul-emotiilor-pestele-spada-se-simte-trist.JPG",
     "have_desc": "Deja cumparat \n (13.20 RON)",
     "gift__name": "Oceanul Emoțiilor - Peștele-Spadă se simte trist",
     "gift__desc": "Katie Woolley",
@@ -87,7 +87,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "oceanul-emotiilor-rechinul-se-simte-timid.jpg",
+    "img_url": "./haveGiven/oceanul-emotiilor-rechinul-se-simte-timid.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
     "gift__name": "Oceanul Emoțiilor - Rechinul se simte timid",
     "gift__desc": "Katie Woolley",
@@ -96,7 +96,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "oceanul-emotiilor-steaua-de-mare-se-simte-speriata.jpg",
+    "img_url": "./haveGiven/oceanul-emotiilor-steaua-de-mare-se-simte-speriata.jpg",
     "have_desc": "Deja cumparat \n (13.20 RON)",
     "gift__name": "Oceanul Emoțiilor - Steaua-de-Mare se simte speriată",
     "gift__desc": "Katie Woolley",
@@ -105,7 +105,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "povestile-bufnitei-pisoiul-care-se-temea-de-orice.jpg",
+    "img_url": "./haveGiven/povestile-bufnitei-pisoiul-care-se-temea-de-orice.jpg",
     "have_desc": "Deja cumparat \n (27.30 RON)",
     "gift__name": "Povestile bufnitei. Pisoiul care se temea de orice",
     "gift__desc": "Eric-Emmanuel Schmitt",
@@ -114,7 +114,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "Elefantul_care_nu_respecta_nimic.jpg",
+    "img_url": "./haveGiven/Elefantul_care_nu_respecta_nimic.jpg",
     "have_desc": "Deja cumparat \n (24.05 RON)",
     "gift__name": "Povestile bufnitei. Elefantul care nu respecta nimic",
     "gift__desc": "Eric-Emmanuel Schmitt",
@@ -123,7 +123,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "povestile-bufniteiursul-care-voia-sa-fie-fericit.jpg",
+    "img_url": "./haveGiven/povestile-bufniteiursul-care-voia-sa-fie-fericit.jpg",
     "have_desc": "Deja cumparat \n (27.93 RON)",
     "gift__name": "Povestile bufnitei. Ursul care voia sa fie fericit.",
     "gift__desc": "Eric-Emmanuel Schmitt",
@@ -132,7 +132,7 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "Povestile_Bufnitei_Insula_Libertatii.jpg",
+    "img_url": "./haveGiven/Povestile_Bufnitei_Insula_Libertatii.jpg",
     "have_desc": "Deja cumparat \n (29.60 RON)",
     "gift__name": "Povestile bufnitei. Insula Libertatii",
     "gift__desc": "Eric-Emmanuel Schmitt",
@@ -141,14 +141,14 @@
   {
     "have_both": true,
     "reserved": true,
-    "img_url": "connetix.jpg",
+    "img_url": "./haveGiven/connetix.jpg",
     "have_desc": "Deja cumparat \n (427.07 RON)",
     "gift__name": "Connetix rainbow 102",
     "gift__add": "Brand: Connetix"
   },
   {
     "reserved": true,
-    "img_url": "lego_42672.jpg",
+    "img_url": "./haveGiven/lego_42672.jpg",
     "gift__name": "Lego 42672",
     "gift__add": "Brand: Lego"
   }

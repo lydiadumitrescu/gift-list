@@ -1,7 +1,7 @@
 [
   {
     "have_both": true,
-    "img_url": "Billycelnesocotit.jpg",
+    "img_url": "./pending/Billycelnesocotit.jpg",
     "have_desc": "Deja cumparat \n (27.00 RON)",
     "gift__name": "Billy cel nesocotit",
     "gift__desc": "Sheila Bair",
@@ -10,82 +10,82 @@
   {
     "display": false,
     "have_both": true,
-    "img_url": "atomii_si_moleculele.png",
+    "img_url": "./pending/atomii_si_moleculele.png",
     "have_desc": "Deja cumparat \n 39.00 RON)",
     "gift__name": "Descopera atomii si moleculele (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
-    "img_url": "roata_roata_prin_lumea_toata.JPG",
+    "img_url": "./pending/roata_roata_prin_lumea_toata.JPG",
     "gift__name": "Roata, roata prin lumea toata",
     "gift__desc": "Richard Scarry",
     "gift__add": "Editura: Cartea Copiilor"
   },
   {
-    "img_url": "intrebarile-de-ce.jpg",
+    "img_url": "./pending/intrebarile-de-ce.jpg",
     "gift__name": "Intrebarile De ce?",
     "gift__desc": "Simona Epure",
     "gift__add": "Editura: DPH"
   },
   {
-    "img_url": "Ava_cea_puternica.jpg",
+    "img_url": "./pending/Ava_cea_puternica.jpg",
     "gift__name": "Ava cea puternica",
     "gift__desc": "Kristina Magdalena Henn , Anja Grote",
     "gift__add": "Editura: sofiami"
   },
   {
-    "img_url": "Iggy_Peck_micul_arhitect.jpg",
+    "img_url": "./pending/Iggy_Peck_micul_arhitect.jpg",
     "gift__name": "Iggy Peck, micul arhitect",
     "gift__desc": "Andrea Beaty",
     "gift__add": "Editura: Pandora M"
   },
   {
-    "img_url": "Lila_Greer_invatatoare_inovatoare.jpg",
+    "img_url": "./pending/Lila_Greer_invatatoare_inovatoare.jpg",
     "gift__name": "Lila Greer, invatatoare inovatoare",
     "gift__desc": "Andrea Beaty",
     "gift__add": "Editura: Pandora M"
   },
   {
-    "img_url": "Rosie_Revere_fetita_inginer.jpg",
+    "img_url": "./pending/Rosie_Revere_fetita_inginer.jpg",
     "gift__name": "Rosie Revere, fetita inginer",
     "gift__desc": "Andrea Beaty",
     "gift__add": "Editura: Pandora M"
   },
   {
     "display": false,
-    "img_url": "bacterii_si_virusi.png",
+    "img_url": "./pending/bacterii_si_virusi.png",
     "gift__name": "Primii pasi in stiinta: Bacterii si virusuri (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
     "display": false,
-    "img_url": "cop_experimente.jpg",
+    "img_url": "./pending/cop_experimente.jpg",
     "gift__name": "Experimente stiintifice (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
   {
-    "img_url": "Ghidul_lemurului_pentru_a_manca_sanatos.jpg",
+    "img_url": "./pending/Ghidul_lemurului_pentru_a_manca_sanatos.jpg",
     "gift__name": "Ghidul lemurului pentru a manca sanatos",
     "gift__desc": "Lisa Edwards",
     "gift__add": "Editura: Editura Univers"
   },
   {
-    "img_url": "Ghidul_Koala_pentru_somn.jpg",
+    "img_url": "./pending/Ghidul_Koala_pentru_somn.jpg",
     "gift__name": "Ghidul Koala pentru somn",
     "gift__desc": "Lisa Edwards",
     "gift__add": "Editura: Editura Univers"
   },
   {
-    "img_url": "Ghidul_lenesului_pentru_a_ti_pastra_calmul.jpg",
+    "img_url": "./pending/Ghidul_lenesului_pentru_a_ti_pastra_calmul.jpg",
     "gift__name": "Ghidul lenesului pentru a-ti pastra calmul",
     "gift__desc": "Lisa Edwards",
     "gift__add": "Editura: Editura Univers"
   },
   {
-    "img_url": "Calin_si_ornitorincul_sau.jpg",
+    "img_url": "./pending/Calin_si_ornitorincul_sau.jpg",
     "gift__name": "Calin si ornitorincul sau",
     "gift__desc": "Dirk Hennig , Michael Engler",
     "gift__add": "Editura: DPH"

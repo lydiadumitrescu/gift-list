@@ -1,7 +1,7 @@
 [
   {
-    "img_url": "doi_inventatori_geniali_coperta_tipar.jpg",
-    "gift__name": "Doi inventatori geniali",
+    "img_url": "iepurele_a_ascultat.jpg",
+    "gift__name": "Iepurele a ascultat",
     "gift__desc": "",
     "gift__add": ""
   },
@@ -23,9 +23,9 @@
   },
   {
     "have_both": true,
-    "have_desc": "Deja cumparat \n (39.00 RON)",
     "img_url": "petunia.jpg",
     "gift__name": "Petunia (Limba: Romana)",
+    "have_desc": "Deja cumparat \n (39.00 RON)",
     "gift__desc": "Roger Duvoisin",
     "gift__add": "Editura: Portocala Albastra"
   },
@@ -100,7 +100,8 @@
     "have_desc": "Deja cumparat \n (27.1 RON)",
     "gift__name": "Istoria Romaniei pentru copii in 100 de imagini",
     "gift__desc": "Cristian Vornicu",
-    "gift__add": "Editura: Niculescu Kids"
+    "gift__add": "Editura: Niculescu Kids",
+    "display": false
   },
   {
     "have_both": true,
@@ -123,22 +124,6 @@
     "img_url": "copertaalbinuta.png",
     "have_desc": "Deja cumparat \n (18.40 RON)",
     "gift__name": "Cicluri de viata. Albinuta (Usborne)",
-    "gift__desc": "Usborne Books",
-    "gift__add": "Editura: Univers Enciclopedic"
-  },
-  {
-    "have_both": true,
-    "img_url": "copacelul.jpg",
-    "have_desc": "Deja cumparat \n (18.40 RON)",
-    "gift__name": "Cicluri de viata. Copacelul (Usborne)",
-    "gift__desc": "Usborne Books",
-    "gift__add": "Editura: Univers Enciclopedic"
-  },
-  {
-    "have_both": true,
-    "img_url": "coperta_puisorul.png",
-    "have_desc": "Deja cumparat \n (18.40 RON)",
-    "gift__name": "Cicluri de viata. Puisorul (Usborne)",
     "gift__desc": "Usborne Books",
     "gift__add": "Editura: Univers Enciclopedic"
   },
@@ -194,7 +179,8 @@
     "img_url": "cand_cerul_este_prea_aproape.jpg",
     "gift__name": "Cand cerul este prea aproape",
     "gift__desc": "Adam Bestwick",
-    "gift__add": "Editura: Nomina"
+    "gift__add": "Editura: Nomina",
+    "display": false
   },
   {
     "img_url": "samanta_rea.jpg",
@@ -206,7 +192,8 @@
     "img_url": "cel-mai-cool-bob-de-fasole-.jpg",
     "gift__name": "Cel mai cool bob de fasole",
     "gift__desc": "Jory John",
-    "gift__add": "Editura: Vlad și Cartea cu Genius"
+    "gift__add": "Editura: Vlad și Cartea cu Genius",
+    "display": false
   },
   {
     "img_url": "te-ai_intrebat_vreodata.JPG",
@@ -217,7 +204,8 @@
   },
   {
     "img_url": "350_English_and_romanian.jpg",
-    "gift__name": "350 words. 350 de cuvinte in engleza si romana"
+    "gift__name": "350 words. 350 de cuvinte in engleza si romana",
+    "display": false
   },
   {
     "img_url": "Un_punct_de_la_care_incepe_totul.jpg",
@@ -238,9 +226,16 @@
     "gift__add": "Editura: KATARTIS"
   },
   {
+    "img_url": "doi_inventatori_geniali_coperta_tipar.jpg",
+    "gift__name": "Doi inventatori geniali",
+    "gift__desc": "",
+    "gift__add": ""
+  },
+  {
     "img_url": "Ce_poti_face_cu_o_problema_.jpg",
     "gift__name": "Ce poți face cu o problema",
     "gift__desc": "Kobi Yamada",
-    "gift__add": "Editura: Vlad și Cartea cu Genius"
+    "gift__add": "Editura: Vlad și Cartea cu Genius",
+    "display": false
   }
 ]
