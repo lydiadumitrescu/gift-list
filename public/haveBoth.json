@@ -23,6 +23,22 @@
     "gift__add": "Editura: Vlad și Cartea cu Genius"
   },
   {
+    "have_both": true,
+    "img_url": "coperta_fluturasul.png",
+    "have_desc": "Deja cumparat \n (18.40 RON)",
+    "gift__name": "Cicluri de viata. Fluturasul (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
+    "have_both": true,
+    "img_url": "copertaalbinuta.png",
+    "have_desc": "Deja cumparat \n (18.40 RON)",
+    "gift__name": "Cicluri de viata. Albinuta (Usborne)",
+    "gift__desc": "Usborne Books",
+    "gift__add": "Editura: Univers Enciclopedic"
+  },
+  {
     "reserved": true,
     "have_both": true,
     "img_url": "./haveGiven/povesti_de_fantastic_coaching_pentru_copii_cristina_betterelli.JPG",
